@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'React Emojione component.',
-  version: '1.5.2',
+  version: '1.5.2_1',
   name: 'qnub:emojione-react',
   git: 'https://github.com/qnub/emojione-react.git',
 });
