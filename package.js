@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'React Emojione component.',
-  version: '1.5.2_1',
+  version: '1.5.2_2',
   name: 'qnub:emojione-react',
   git: 'https://github.com/qnub/emojione-react.git',
 });
@@ -16,8 +16,8 @@ Package.onUse(function(api, where) {
   api.use([
     'ejson@1.0.7',
     'ecmascript',
-    'react@0.14.1',
-    'cosmos:browserify@0.8.1'
+    'react@0.14.1_1',
+    'cosmos:browserify@0.8.3'
   ]);
 
   api.addFiles([
