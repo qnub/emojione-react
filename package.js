@@ -1,13 +1,13 @@
 Package.describe({
   summary: 'React Emojione component.',
-  version: '1.5.2_2',
+  version: '2.0.1',
   name: 'qnub:emojione-react',
   git: 'https://github.com/qnub/emojione-react.git',
 });
 
 Npm.depends({
   'externalify': '0.1.0',
-  'emojione': '1.5.2'
+  'emojione': '2.0.1'
 });
 
 Package.onUse(function(api, where) {
